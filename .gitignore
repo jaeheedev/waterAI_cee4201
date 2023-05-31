@@ -7,3 +7,7 @@
 /preprocessing_gr
 /goldriver
 /LightGBM
+*.zip
+*.hwp
+*.pptx
+preprocessing.zip
