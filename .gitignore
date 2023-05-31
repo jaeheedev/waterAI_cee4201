@@ -1,0 +1,9 @@
+*.csv
+/test
+/train
+/test2
+/train2
+/preprocessing
+/preprocessing_gr
+/goldriver
+/LightGBM
